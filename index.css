@@ -14,7 +14,19 @@ input{
   box-sizing: border-box;
   padding-bottom: 10px;
   padding-top: 10px;
+  box-sizing:border-box ;
+  border: 1px solid #5f9341;
+  margin-bottom: 4px;
 }
 button{
+  
+  background: #5f9341;
+  color:white;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom:10px;
+  border: none;
+  font-weight: bold;
 
 }
